@@ -1,5 +1,5 @@
 # kwak
-kwak is a Cosmos validator, and a development team. Who builds for the community 
+kwak is a Cosmos validator, and a development team
 
 # Contributions 
 ## kwak-tax  (Open source Soon)
